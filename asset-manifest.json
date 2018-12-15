@@ -1,14 +1,14 @@
 {
-  "main.css": "/triumphgame/fair-game/static/css/main.1f27fd52.chunk.css",
-  "main.js": "/triumphgame/fair-game/static/js/main.567614a0.chunk.js",
-  "main.js.map": "/triumphgame/fair-game/static/js/main.567614a0.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "/triumphgame/fair-game/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "/triumphgame/fair-game/static/js/1.82dafdb5.chunk.js.map",
-  "runtime~main.js": "/triumphgame/fair-game/static/js/runtime~main.d2c267e1.js",
-  "runtime~main.js.map": "/triumphgame/fair-game/static/js/runtime~main.d2c267e1.js.map",
-  "static/media/logo.svg": "/triumphgame/fair-game/static/media/logo.5d5d9eef.svg",
-  "static/css/main.1f27fd52.chunk.css.map": "/triumphgame/fair-game/static/css/main.1f27fd52.chunk.css.map",
-  "index.html": "/triumphgame/fair-game/index.html",
-  "precache-manifest.cbec5d4227613f719b63b9e95127e193.js": "/triumphgame/fair-game/precache-manifest.cbec5d4227613f719b63b9e95127e193.js",
-  "service-worker.js": "/triumphgame/fair-game/service-worker.js"
+  "main.css": "/fair-game/static/css/main.1f27fd52.chunk.css",
+  "main.js": "/fair-game/static/js/main.3d446a27.chunk.js",
+  "main.js.map": "/fair-game/static/js/main.3d446a27.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/fair-game/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/fair-game/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/fair-game/static/js/runtime~main.57290442.js",
+  "runtime~main.js.map": "/fair-game/static/js/runtime~main.57290442.js.map",
+  "static/media/logo.svg": "/fair-game/static/media/logo.5d5d9eef.svg",
+  "static/css/main.1f27fd52.chunk.css.map": "/fair-game/static/css/main.1f27fd52.chunk.css.map",
+  "index.html": "/fair-game/index.html",
+  "precache-manifest.5a5a41b182bae30c46a60adde4b56088.js": "/fair-game/precache-manifest.5a5a41b182bae30c46a60adde4b56088.js",
+  "service-worker.js": "/fair-game/service-worker.js"
 }

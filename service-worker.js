@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/triumphgame/fair-game/precache-manifest.cbec5d4227613f719b63b9e95127e193.js"
+  "/fair-game/precache-manifest.5a5a41b182bae30c46a60adde4b56088.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/triumphgame/fair-game/index.html", {
+workbox.routing.registerNavigationRoute("/fair-game/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
